@@ -14,6 +14,8 @@
 > http://www.shoeisha.co.jp/book/detail/9784798137148
 >
 
+
+メモ：
 ### IaaS（Infrastructure as a Service）
 サーバーやOS、ネットワークなどのシステムインフラをオンデマンドに提供するサービス。データを保存するストレージ領域も提供される。
 
